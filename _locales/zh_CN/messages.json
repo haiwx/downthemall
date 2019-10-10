@@ -52,7 +52,7 @@
     "description": "Messagebox info text for batch confirmations"
   },
   "batch_question": {
-    "message": "您想要添加此下载为批量下载或单次下载吗？",
+    "message": "Do you want to add this as a batch or as a single download?",
     "description": "Messagebox info text for batch confirmations"
   },
   "batch_single": {
@@ -200,7 +200,7 @@
     "description": "button text"
   },
   "deletefiles_text": {
-    "message": "您确定要删除以下文件吗？",
+    "message": "您确定要删除下列文件吗？",
     "description": "messagebox text"
   },
   "deletefiles_title": {
@@ -296,7 +296,7 @@
     "description": "Error Message; select/single window"
   },
   "error_nodotsinpath": {
-    "message": "浏览器不支持子文件夹包含点号（.）",
+    "message": "浏览器不支持子文件夹中的点（.）",
     "description": "Error Message; select/single window"
   },
   "error_noItemsSelected": {
@@ -308,7 +308,7 @@
     "description": "menu text"
   },
   "export_aria2": {
-    "message": "导出为 aria2 列表",
+    "message": "导出为 Aria2  列表",
     "description": "menu text"
   },
   "export_metalink": {
@@ -574,11 +574,11 @@
     "description": "Preferences/General"
   },
   "pref_button_type": {
-    "message": "DownThemAll! 按钮：",
+    "message": "DownThemAll!  按钮",
     "description": "label"
   },
   "pref_button_type_dta": {
-    "message": "DownThemAll! 选择框",
+    "message": "DownThemAll! 选框",
     "description": "label"
   },
   "pref_button_type_manager": {
@@ -586,7 +586,7 @@
     "description": "label"
   },
   "pref_button_type_popup": {
-    "message": "弹出菜单",
+    "message": "弹出式菜单",
     "description": "label"
   },
   "pref_button_type_turbo": {
@@ -602,7 +602,7 @@
     "description": "Preferences/General"
   },
   "pref_hide_context": {
-    "message": "不显示通用右键菜单项",
+    "message": "不要显示通用右键菜单项",
     "description": "Preferences/General"
   },
   "pref_manager": {
@@ -610,7 +610,7 @@
     "description": "Preferences/General; group text"
   },
   "pref_manager_in_popup": {
-    "message": "在新的弹出窗口中打开管理器",
+    "message": "新建窗口打开管理器",
     "description": "checkbox text"
   },
   "pref_manager_tooltip": {
@@ -638,11 +638,11 @@
     "description": "Preferences/General"
   },
   "pref_retries": {
-    "message": "下载临时出错时的重试次数",
+    "message": "下载错误的重试次数",
     "description": "pref text"
   },
   "pref_retry_time": {
-    "message": "重试间隔（以分钟计）",
+    "message": "重试间隔时间（分钟）",
     "description": "pref text"
   },
   "pref_show_urls": {
@@ -656,6 +656,22 @@
   "pref_text_links": {
     "message": "尝试在网站文本中寻找链接（较慢）",
     "description": "Preferences/General"
+  },
+  "pref_theme": {
+    "message": "主题：",
+    "description": "label text"
+  },
+  "pref_theme_dark": {
+    "message": "深邃",
+    "description": "option text"
+  },
+  "pref_theme_default": {
+    "message": "系统/浏览器",
+    "description": "option text"
+  },
+  "pref_theme_light": {
+    "message": "明亮",
+    "description": "option text"
   },
   "pref_ui": {
     "message": "用户界面",
@@ -972,11 +988,11 @@
     "description": "Action for resuming a download"
   },
   "retrying": {
-    "message": "重试中",
+    "message": "正在重试",
     "description": "Status text"
   },
   "retrying_error": {
-    "message": "重试中 - $ERROR$",
+    "message": "正在重试 - $ERROR$",
     "description": "status text",
     "placeholders": {
       "error": {
@@ -1034,7 +1050,7 @@
     "description": "Menu text; select window"
   },
   "set_mask_text": {
-    "message": "设置新的重命名模版",
+    "message": "设置新的重命名模板",
     "description": "dialog text"
   },
   "set_referrer": {
@@ -1230,7 +1246,7 @@
     "description": "label text"
   },
   "subfolder_placeholder": {
-    "message": "将您的文件放置到下载目录里的此子文件夹",
+    "message": "将文件放在此下载目录中的子文件夹中",
     "description": "placeholder text within an input box"
   },
   "title": {
